@@ -1,7 +1,15 @@
 package cn.hank.hashmap;
 
+import cn.hank.hashmap.impl.HashMap;
+
 public class Test02 {
     public static void main(String[] args) {
-        System.out.println("第二段代码");
+        int i=0;
+        HashMap<String, String> map = new HashMap<String, String>();
+
+        System.out.println("jajaj ");
+
     }
+
+
 }
